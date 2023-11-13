@@ -28,7 +28,7 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
-      <h1>This one with build project folder only.</h1>
+      <h1>This one with build project and original folder.</h1>
     </>
   );
 }
